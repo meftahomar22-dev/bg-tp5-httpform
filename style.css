@@ -33,14 +33,14 @@ body {
 }
 
 .header h2 {
-    font-size: 1.2rem;
+    font-size: 20px;
     color: #ffffff;
     margin-bottom: 10px;
 }
 
 .header p {
     color: #b0b0b0;
-    font-size: 0.95rem;
+    font-size: 12px;
 }
 
 fieldset {
@@ -150,7 +150,7 @@ input[type="color"] {
     color: white;
     border: none;
     padding: 14px 35px;
-    font-size: 1.1rem;
+    font-size: 15px;
     font-weight: bold;
     border-radius: 30px;
     cursor: pointer;
